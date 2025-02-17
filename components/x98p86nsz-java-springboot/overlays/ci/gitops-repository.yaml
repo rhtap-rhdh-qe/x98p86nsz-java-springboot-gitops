@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: x98p86nsz-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/x98p86nsz-java-springboot-gitops
